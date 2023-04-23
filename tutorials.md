@@ -9,9 +9,13 @@ Upsides:
 Downsides: 
    
    *	The UI/UX is not  convenient for learners in several cases. I can list out a few examples as below:
+	
 	+	There is no “Back” button when you are in the middle of practice exercises. If you want to refer to the previous lessons, we have no choice except returning back to home page and choose the target lessons, then we reset our “incomplete” exercise from the beginning. 
+	
 	+	The help items such as Solutions, Help, Undo … are placed at the bottom of the page which is really hard to catch attention from users. I have not realized them until I finish all of the lessons. If I could find them in advance, I would have more knowledge and take less time to study. 
+	
 	+	The tool always mentions that it should have better way to do the exercises there is no hint on how to do that. Therefore, it will be always the secret to us, so weird. 
+   
    *	The practical exercises should divide into mandatory and optional, so that users can move to the next session even they have not completed all exercises yet
    *	It is better to create more flexibilities so that users can try and explore about Git structure
 
